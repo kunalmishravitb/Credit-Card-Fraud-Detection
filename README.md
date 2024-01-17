@@ -27,7 +27,7 @@
 💿 Installing
 1. Environment setup.
 ```
-conda create --prefix venv python==3.8 -y
+conda create --prefix venv python==3.9 -y
 ```
 ```
 conda activate venv/
@@ -43,7 +43,7 @@ python app.py
 
 🔧 Built with
 - flask
-- Python 3.8
+- Python 3.9
 - Machine learning
 - Scikit learn
 - 🏦 Industrial Use Cases
