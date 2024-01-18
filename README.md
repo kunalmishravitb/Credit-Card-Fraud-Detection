@@ -40,6 +40,14 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+4. Open your browser and hit the url below one by one
+```
+http://127.0.0.1:5000
+http://127.0.0.1:5000/train
+http://127.0.0.1:5000/predict
+```
+
+
 
 🔧 Built with
 - flask
